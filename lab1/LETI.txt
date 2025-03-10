@@ -1,0 +1,25 @@
+Lazarev Fedor
+M
+3372
+14
+5 5 5 5 5 5 5 5
+Baleva Ulia
+W
+3372
+1
+5 5 5 5 4 4 4 4
+Belyaev Kirill
+M
+3372
+3
+5 5 5 5 5 4 4 4
+Zastryalin Sergio
+M
+3372
+11
+4 4 4 4 4 4 3 3
+Baranov Alexey
+M
+3372
+2
+3 3 3 3 3 3 3 3
